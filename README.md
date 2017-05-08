@@ -13,22 +13,33 @@ Este documento contém a descrição das  normas de conduta a serem seguidas pel
 
 - O canal não teve, tem ou terá fins lucrativos.
 - Todas as palestras produzidas pelo canal deve seguir com os devidos dados na descrição do vídeo, sendo elas:
-   - Tema 
-       - Obrigatório seu preenchimento
-   - Palestrante 
-       - Obrigatório seu preenchimento, sendo de escolha do palestrante utilizar o nome, apelido ou ambos.
-   - Twitter 
-       - Opcional ficando a escolha do palestrante.
-   - Facebook
-       - Opcional ficando a escolha do palestrante.
-   - Linkedin 
-       - Opcional ficando a escolha do palestrante.
-   - GitHub 
-       - Opcional ficando a escolha do palestrante.
-   - Site
-       - Opcional ficando a escolha do palestrante.
-   - Empresa
-       - Opcional ficando a escolha do palestrante.
+   - Dados da palestra
+     - Tema 
+         - Obrigatório seu preenchimento
+     - Palestrante 
+         - Obrigatório seu preenchimento, sendo de escolha do palestrante utilizar o nome, apelido ou ambos.
+     - Twitter 
+         - Opcional ficando a escolha do palestrante.
+     - Facebook
+         - Opcional ficando a escolha do palestrante.
+     - Linkedin 
+         - Opcional ficando a escolha do palestrante.
+     - GitHub 
+         - Opcional ficando a escolha do palestrante.
+     - Site
+         - Opcional ficando a escolha do palestrante.
+     - Empresa
+         - Opcional ficando a escolha do palestrante.
+         
+    **Caso palestrante queira inserir links não listados, basta que o mesmo forneça os dados para que sejam inseridos no vídeo**
+
+    - Links Mencionados
+      - Inserir links (quando houver) mencionados durante a transmissão.
+
+    - Contato Canal
+      - Site: https://hackers-house-br.github.io/
+      - E-mail: hackershousebr@gmail.com
+      - Twitter: @hackershousebr
 
 ## Palestrante
 
