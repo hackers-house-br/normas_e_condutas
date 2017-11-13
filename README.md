@@ -1,6 +1,10 @@
+<a href='http://hhbr.net.br'>
+<img src='img/logo_hhbr_horizontal_transparente.png' style='margin: 0 auto;' alt='logo hhbr'>
+</a>
+
 # Normas e condutas da comunidade HHBR
 
-Este documento contém a descrição das  normas de conduta a serem seguidas pelos organizadores e palestrantes do canal [Hackers House BR - HHBR](https://www.youtube.com/channel/UCh1xOy7SP_KyRn4wTNVvFHw), sendo imprescindível que sejam seguidos para que obtenhamos uma harmonia coletiva e longevidade da comunidade.
+Este documento contém a descrição das  normas de conduta a serem seguidas pelos organizadores e palestrantes do canal [hhbr](https://www.youtube.com/hhbr-tech), sendo imprescindível que sejam seguidos para que obtenhamos uma harmonia coletiva e longevidade da comunidade.
 
 ## Geral
 
@@ -36,10 +40,11 @@ Este documento contém a descrição das  normas de conduta a serem seguidas pel
     - Links Mencionados
       - Inserir links (quando houver) mencionados durante a transmissão.
 
-    - Contato Canal
-      - Site: https://hackers-house-br.github.io/
-      - E-mail: hackershousebr@gmail.com
-      - Twitter: @hackershousebr
+    - Formas Para Contato
+        - Site: [http://hhbr.net.br](http://hhbr.net.br)
+        - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
+        - E-mail: hackershousebr@gmail.com
+        - Twitter: [@hackershousebr](twitter.com/hackershousebr)
 
 ## Palestrante
 
@@ -61,4 +66,4 @@ Para dúvidas ou sugestões, favor encaminhar um e-mail para hackershousebr@gmai
 
 Atenciosamente,
 
-HHBR
+Comunidade hhbr
