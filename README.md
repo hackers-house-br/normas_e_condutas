@@ -2,7 +2,7 @@
 <img src='img/logo_hhbr_horizontal_transparente.png' style='margin: 0 auto;' alt='logo hhbr'>
 </a>
 
-# Normas e condutas da comunidade HHBR
+# Normas e condutas da comunidade hhbr
 
 Este documento contém a descrição das  normas de conduta a serem seguidas pelos organizadores e palestrantes do canal [hhbr](https://www.youtube.com/hhbr-tech), sendo imprescindível que sejam seguidos para que obtenhamos uma harmonia coletiva e longevidade da comunidade.
 
@@ -62,7 +62,7 @@ Este documento contém a descrição das  normas de conduta a serem seguidas pel
 
 Os tópicos listados acima não tem a intenção de dificultar ou engessar os processos pelo contrário, foram listados tópicos que solidificam boas condutas para que assim possamos nos focar no aprendizado e divulgação de conhecimento, enriquecendo a comunidade de TI no Brasil.
 
-Para dúvidas ou sugestões, favor encaminhar um e-mail para hackershousebr@gmail.com
+Para dúvidas ou sugestões, favor encaminhar um e-mail para hackershousebr@gmail.com ou submeter o [formulário de contato](http://hhbr.net.br/contato/)
 
 Atenciosamente,
 
